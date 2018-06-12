@@ -2,7 +2,7 @@
     padding: 10px;
     font-size: 16px;
     border: 2px solid #FFF;
-    width: 165px;
+    width: 500px;
 }
 
 .todoListMain .header button {
@@ -13,6 +13,8 @@
     background-color: #0066FF;
     color: #FFF;
     border: 2px solid #0066FF;
+    border-radius: 3px;
+    width: 100px
 }
 
 .todoListMain .header button:hover{
